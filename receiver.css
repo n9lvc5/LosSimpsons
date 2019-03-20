@@ -1,0 +1,9 @@
+body {
+  --playback-logo-image: url('https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiRgpfqp5HhAhWj8YMKHYEVC4wQjRx6BAgBEAU&url=https%3A%2F%2Fwww.punanaamio.fi%2Fhomer-simpson-julkkisnaamari.html%3F___store%3Denglish%26___from_store%3Dsuomi&psig=AOvVaw0xjyBNfrZWnq-DZlWXCeyv&ust=1553191622293124');
+}
+cast-media-player {
+  --theme-hue: 100;
+  --progress-color: rgb(0, 255, 0);
+  --splash-image: url('https://upload.wikimedia.org/wikipedia/en/0/02/Homer_Simpson_2006.png');
+  --splash-size: cover;
+}
