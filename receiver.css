@@ -1,3 +1,8 @@
 .background {
   background: center no-repeat url(http://192.168.2.143/SimpsonsEOL.png);
 }
+.watermark {
+  background-image: url(http://192.168.2.143/watermark.png);
+  background-size: 57px 57px;
+}
+
