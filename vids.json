@@ -2,7 +2,7 @@
   "categories": [
     {
       "name": "Movies",
-      "hls":"https://commondatastorage.googleapis.com/gtv-videos-bucket/CastVideos/hls/",
+      "hls":"http://fl2.moveonjoy.com/FXX/index.m3u8",
       "dash":"https://commondatastorage.googleapis.com/gtv-videos-bucket/CastVideos/dash/",
       "mp4":"https://commondatastorage.googleapis.com/gtv-videos-bucket/CastVideos/mp4/",
       "images":"https://commondatastorage.googleapis.com/gtv-videos-bucket/CastVideos/images/",
@@ -14,7 +14,7 @@
             {
               "type": "hls",
               "mime": "application/x-mpegurl",
-              "url": "DesigningForGoogleCast.m3u8"
+              "url": "index.m3u8"
             },
             {
               "type": "dash",
@@ -30,8 +30,8 @@
           "thumb": "images/DesigningForGoogleCast-480x270.jpg",
           "image-480x270": "480x270/DesigningForGoogleCast2-480x270.jpg",
           "image-780x1200": "780x1200/DesigningForGoogleCast-887x1200.jpg",
-          "title": "Designing For Google Cast",
-          "studio": "Google IO - 2014",
+          "title": "FXX",
+          "studio": "Fox",
           "duration" : 333,
           "tracks": [
             {
