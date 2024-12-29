@@ -1,6 +1,6 @@
-#EXTM3U +
+#EXTM3U
 #EXT-X-ALLOW-CACHE:YES
-#EXTINF:2 ,EXYU - TOM & JERRY (New)
+#EXTINF:2 group-id="Cartoon",EXYU - TOM & JERRY (New)
 http://supgom.xyz:80/live/67VT73X/V2FNZY917BF4CLE/473283.ts
 #EXTINF:2,ALB - TOM & JERRY
 http://supgom.xyz:80/live/67VT73X/V2FNZY917BF4CLE/74840.ts
