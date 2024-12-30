@@ -2,8 +2,8 @@
 #EXT-X-ALLOW-CACHE:YES
 #EXTINF:2 group-id="Cartoon",EXYU - TOM & JERRY (New)
 http://supgom.xyz:80/live/67VT73X/V2FNZY917BF4CLE/473283.ts
-#EXTINF:2,ALB - TOM & JERRY
-http://supgom.xyz:80/live/67VT73X/V2FNZY917BF4CLE/74840.ts
+#EXTINF:2 group-id="Cartoon",TOM & JERRY
+http://authxplus-2.xyz:2082/live/Tourobox1-MwFcpXCqt1/1fxOegjxgA/733.ts
 #EXTINF:1,##### SP - SPAIN #####
 http://supgom.xyz:80/live/67VT73X/V2FNZY917BF4CLE/63846.ts
 #EXTINF:1,ES - LA 1 HD 
