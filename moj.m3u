@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="WOLODT1.us@SD",ABC 25 Columbia
 https://moveonjoy-cdn-scanner-chi.vercel.app/api/scan?url=https://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.us",Comedy Central
+https://moveonjoy-cdn-scanner-chi.vercel.app/api/scan?url=https://fl1.moveonjoy.com/Comedy_Central/index.m3u8
 #EXTINF:-1 tvg-id="WLSDT1.us@SD",ABC Chicago WLS-DT1
 https://moveonjoy-cdn-scanner-chi.vercel.app/api/scan?url=https://fl1.moveonjoy.com/IL_CHICAGO_ABC/index.m3u8
 #EXTINF:-1 tvg-id="ACCNetwork.us@SD",ACCN (720p)
@@ -112,7 +114,7 @@ https://moveonjoy-cdn-scanner-chi.vercel.app/api/scan?url=https://fl1.moveonjoy.
 #EXTINF:-1 tvg-id="FXM.us@East",FXM East
 https://moveonjoy-cdn-scanner-chi.vercel.app/api/scan?url=https://fl1.moveonjoy.com/FX_MOVIE/index.m3u8
 #EXTINF:-1 tvg-id="FXX.us@East",FXX East
-https://moveonjoy-cdn-scanner-chi.vercel.app/api/scan?url=https://fl1.moveonjoy.com/FXX/index.m3u8
+https://moveonjoy-cdn-scanner-chi.vercel.app/api/scan?url=https://fl1.moveonjoy.com/FXX_EAST/index.m3u8
 #EXTINF:-1 tvg-id="FYI.us@East",FYI East
 https://moveonjoy-cdn-scanner-chi.vercel.app/api/scan?url=https://fl1.moveonjoy.com/FYI/index.m3u8
 #EXTINF:-1 tvg-id="GetTV.us@SD",GetTV (480p)
