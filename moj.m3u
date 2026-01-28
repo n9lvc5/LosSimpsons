@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="WOLODT1.us@SD",ABC 25 Columbia
 https://moveonjoy-cdn-scanner-chi.vercel.app/api/scan?url=https://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+#EXTINF:-1 tvg-id="science.us", Science
+https://moveonjoy-cdn-scanner-chi.vercel.app/api/scan?url=https://fl1.moveonjoy.com/SCIENCE/index.m3u8
 #EXTINF:-1 tvg-id="ComedyCentral.us",Comedy Central
 https://moveonjoy-cdn-scanner-chi.vercel.app/api/scan?url=https://fl1.moveonjoy.com/Comedy_Central/index.m3u8
 #EXTINF:-1 tvg-id="WLSDT1.us@SD",ABC Chicago WLS-DT1
