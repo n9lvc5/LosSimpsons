@@ -281,3 +281,5 @@ https://moveonjoy-cdn-scanner-chi.vercel.app/api/scan?url=https://fl1.moveonjoy.
 https://moveonjoy-cdn-scanner-chi.vercel.app/api/scan?url=https://fl1.moveonjoy.com/Virgin_Islands_NBC/index.m3u8
 #EXTINF:-1 tvg-id="YesNetwork.us@SD",Yes Network
 https://moveonjoy-cdn-scanner-chi.vercel.app/api/scan?url=https://fl1.moveonjoy.com/YES_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="YesNetwork.us@SD",Marquee Sports Network
+https://moveonjoy-cdn-scanner-chi.vercel.app/api/scan?url=http://fl5.moveonjoy.com/MARQUEE_SPORTS_NETWORK/index.m3u8
